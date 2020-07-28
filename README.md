@@ -1,4 +1,4 @@
-## Head over to [Ragha Abhinaya M Homepage](https://ragabhim.github.io/)
+### [Ragha Abhinaya M Homepage](https://ragabhim.github.io/)
 This is the repository for my webpage. 
 
 Here's my [resume](https://ragabhim.github.io/images/180573_1_1%20(3).pdf)
